@@ -1,3 +1,2 @@
 # RandomFact
-![image](https://github.com/howru42/RandomFact/assets/28248029/749c208d-d70d-4fad-94e5-07ef5b1f597d)
-![image](https://github.com/howru42/RandomFact/assets/28248029/bc0b4a15-9d4a-4c9d-8420-da87cfb58ead)
+![Screenshot_20230516_214454](https://github.com/howru42/RandomFact/assets/28248029/c2b7cf9d-aef6-4128-ab9d-306e5478f3be)
